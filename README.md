@@ -3,4 +3,4 @@ Free modern animated UI components for .NET framework. This is a bundle of .NET 
 
 ![Demo Image](https://raw.githubusercontent.com/theInviolable/MetroUIComponents/master/Images/All.png)
 
-![Demo Image 2](https://raw.githubusercontent.com/theInviolable/MetroUIComponents/master/Images/Cards.PNG)
+![Demo Image 2](https://raw.githubusercontent.com/theInviolable/MetroUIComponents/master/Images/Cards.jpg)
